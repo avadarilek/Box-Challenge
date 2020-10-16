@@ -1,20 +1,25 @@
 .div1{
   background-color: lightblue;
   margin-right: 1500px;
-  padding: 20px;
   border: 10px  solid black;
+  height: 190px;
+  width: 190px;
 }
 .div2{
   background-color: yellow;
   margin-right: 1350px;
-  margin-left: 150px;
+  margin-left: 200px;
   border: 20px solid black;
+  height: 180px;
+  width: 180px;
 
 }
 .div3{
   background-color: hotpink;
   margin-right: 1200px;
-  margin-left: 300px;
+  margin-left: 410px;
   border: 10px solid black;
+  height: 180px;
+  width: 180px;
 
 }
